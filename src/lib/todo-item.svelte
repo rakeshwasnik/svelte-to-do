@@ -6,10 +6,10 @@
 
     <form action="" method="">
         <input type="text" />
-        <button aria-label="Save ToDo">Save</button>
+        <button aria-label="Save todo">Save</button>
     </form>
 
     <form action="" method="">
-        <button aria-label="Delete ToDo"></button>
+        <button aria-label="Delete todo">Delete</button>
     </form>
 </div>

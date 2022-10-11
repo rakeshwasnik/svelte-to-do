@@ -8,4 +8,4 @@ tasks:
 
 ports:
   - port: 5173
-    onOpen: open-browse
+    onOpen: open-browser
